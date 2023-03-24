@@ -1,4 +1,4 @@
-# The evolution of offshorewealth among Visegrad Group residents, 2001-2015
+# The evolution of offshore wealth among Visegrad Group residents, 2001-2015
 *This research was initiated as a group project with Kate Devane in our Senior Sophister Year at Trinity College in Dublin and later won the Dermot Mc Aleese prize for Best Overall Essay in the Student Economic Review.*
 *To view the full paper, please see: https://www.tcd.ie/Economics/assets/pdf/SER/2020/1evolution_of_offshore_wealth.pdf*
 
