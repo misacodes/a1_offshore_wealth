@@ -1,5 +1,5 @@
 # The evolution of offshore wealth among Visegrad Group residents, 2001-2015
-*This repo contains the code of research paper on the evolution of offshore wealth among V4 residents which Kate Devane and I stated as a group project in our Senior Sophister undergraduate year at Trinity College Dublin and which we later published in the Student Economic Review and won the Dermot Mc Aleese prize for Best Overall Essay.*
+*This repo contains the code for research paper on the evolution of offshore wealth among V4 residents. Kate Devane and I stated this research as a group project in our Senior Sophister undergraduate year at Trinity College Dublin and later published it in the Student Economic Review.*
 *To view the full paper, please see: https://www.tcd.ie/Economics/assets/pdf/SER/2020/1evolution_of_offshore_wealth.pdf*
 
 ### Aims and objectives
