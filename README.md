@@ -1,2 +1,16 @@
-# offshore_wealth
-In this repo I analyse the evolution of offshore wealth among Visegrád Group residents between 2001 and 2015
+# The evolution of offshorewealth among Visegrad Group residents, 2001-2015
+*This research was a group project with Kate Devane in our Senior Sophister Year at Trinity College in Dublin.*
+*To view the full paper, please see: https://www.tcd.ie/Economics/assets/pdf/SER/2020/1evolution_of_offshore_wealth.pdf*
+
+### Aims and objectives
+
+The use of offshore tax havens deprives domestic economies of tax revenue, draining developing countries in particular of a valuable source of public funds. In aggregate, governments lose between $500 billion and $600 billion annually to tax havens in the form of lost corporate tax revenue. The loss of low-income economies comes to approximately $200 billion – their percentage GDP lost is higher than that of advanced economies, and greater than the $150 billion in foreign development assistance they receive annually. The potential impact of offshore wealth on inequality measures is particularly salient in the context of Eastern Europe. Inequality has been continuously rising for decades in these countries, even without taking hidden offshore wealth into account. Four decades of communist rule in Czechoslovakia, Poland and Hungary had a pronounced effect on the distribution of wealth and income in the Visegrad group countries. From 1990-2000, the Gini coefficient estimates rose by an average of 10 basis points across the Visegrad Group, and such development persisted throughout the 2000s up until the Great Financial Crisis. Additionally, wealthy residents of the V4 countries have in recent years been consistently linked to offshore entities: The Panama Papers name a number of tycoons whose wealth was born out of the privatisation of state companies in former communist regions, among other high-profile Visegrad citizens Having observed the increasing wealth inequality together with the scandals surrounding Panama Papers in the recent years, we hypothesize a rise offshore wealth among the residents of V4 countries.
+
+
+### Methods
+
+Using data published by the Bank for International Settlements we investigate the evolution of offshore wealth in the Visegrad Group countries: Hungary, Poland, Czech Republic and Slovakia. We then perform a regression analysis to investigate the factors that determine differences in these magnitudes across these 4 countries in the period 2001-2015. Finally, we examine the implications of the recent financial crisis for changes in offshore wealth through the lens of these determinants. 
+
+### Results
+
+We find a significant increase in the mean amount of offshore wealth from 2001-2015 even after adjusting for GDP growth over the period. Turning to determinants, we find unemployment rate, public indebtedness, personal income taxation, rule of law and natural resources all to be significant in explaining the evolution of V4 offshore wealth. Higher offshore holdings are discovered among Visegrad Group residents during periods of good governance in the series. In contrast, the political stability and the GDP growth variables have very little explanatory power. Finally, we identify a structural break in the magnitude of offshore wealth holdings for the Czech Republic and Hungary in the years following the 2008-2009 economic downturn.
